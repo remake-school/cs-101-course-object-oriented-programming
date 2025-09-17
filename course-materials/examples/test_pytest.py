@@ -10,7 +10,6 @@ def my_sum_function(num_list):
 
 	return my_sum
 
-
 # This is the function we have written to automatically test the sum function
 def test_sum():
 	# Test functions usually contain contain several assertion statements, and
@@ -31,7 +30,6 @@ def test_sum():
 
 	# Notice that test code itself could have errors in assertion statements
 	assert my_sum_function([-5, 0, -2]) == -10
-
 
 if __name__ == "__main__":
 	# Run the test function
