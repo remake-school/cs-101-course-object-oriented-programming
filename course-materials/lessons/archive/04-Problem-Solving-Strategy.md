@@ -16,7 +16,3 @@ By the end of today, students should be able to…
 - Follow your plan – Write real code
 - Check your work – Test your code
 - Jamba Juice Activity
-
-
- 
-

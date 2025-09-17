@@ -10,11 +10,11 @@ By the end of this lesson, students will be able to:
 
 ## CPU Instructions and Memory
 - Review major computer components from last lesson (3 min)
-  - Motherboard and BIOS ROM
-  - Random-access memory (RAM)
-  - Central processing unit (CPU)
-  - Graphics processing unit (GPU)
-  - Disk drives and other I/O devices
+	- Motherboard and BIOS ROM
+	- Random-access memory (RAM)
+	- Central processing unit (CPU)
+	- Graphics processing unit (GPU)
+	- Disk drives and other I/O devices
 - Review which components are connected to each other and how (2 min)
 - Teacher talk and discussion following [CPU Instructions and Memory][slides] slides (40 min)
 
@@ -36,6 +36,6 @@ Break (5 min)
 
 ## Challenges
 - Continue [Herd Immunity Simulation Project][]
-  - Implement `Logger` class and write unit tests
+	- Implement `Logger` class and write unit tests
 
 [Herd Immunity Simulation Project]: https://make.sc/herd-immunity

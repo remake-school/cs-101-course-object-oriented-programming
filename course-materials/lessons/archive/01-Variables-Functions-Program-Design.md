@@ -1,6 +1,6 @@
 ## Initial Exercise (10 min)
 
-- Group introduction exercise.  Choose a programming concept from the white board (or add if it's not there), write it on a sticky note, and use it to introduce yourself. Get creative.
+- Group introduction exercise. Choose a programming concept from the white board (or add if it's not there), write it on a sticky note, and use it to introduce yourself. Get creative.
 
 # Variables and Functions
 
@@ -24,10 +24,10 @@ Posted on syllabus
 - Notification if late / not attending
 
 ### How to Succeed in this Course
-Make School courses are primarily hands on.  Your instructor will introduce a topic, help set context, build motivation and curiosity; but it's up to you to study concepts and practice coding until you master a topic.
+Make School courses are primarily hands on. Your instructor will introduce a topic, help set context, build motivation and curiosity; but it's up to you to study concepts and practice coding until you master a topic.
 
 - If a tutorial mentions "Learn more about lists" - you should read the documentation on lists, build sample programs to practice learning lists, quiz yourself on list concepts and overall become a master of lists.
-- If a concept explained in class is not clear, you should dig into it after class.  Look for online explanations, ask your peers, build sample programs, ask your TA, slack your instructor.  Come to the next class an expert in this concept.
+- If a concept explained in class is not clear, you should dig into it after class. Look for online explanations, ask your peers, build sample programs, ask your TA, slack your instructor. Come to the next class an expert in this concept.
 
 ## Review of Variables and Functions (15 min)
 
@@ -59,7 +59,7 @@ Work on your own and then with a neighbor to figure out what the function will p
 ## Program Design Overview + Activity (20 min)
 
 ### Overview (10 min)
-- Every program can be broken down into input, output and processing.  In order to perform the processing, you need fundamental programming concepts.
+- Every program can be broken down into input, output and processing. In order to perform the processing, you need fundamental programming concepts.
 - This process is useful at the design stage because it helps to scope the project and identify requirements.
 - Translating all these processing steps directly into the details of a program really only works in small programs though: in most programs, implementation works best using an agile approach which starts from a minimum viable product (MVP) and then iteratively builds features (see SPD for more on how to do this!)
 - This allows features to change with changing requirements.
@@ -69,19 +69,17 @@ As a class, choose a program example (ie Facebook), and we’ll break it down in
 
 Label the core concepts, and discuss how these concepts build into a program
 
-
-
 ## Mad Libs Program Design Activity (45 min)
 
 ### Overview (5 min)
 
-Mad Libs typically starts by prompting you (the user) to provide words based on the various parts of speech:, typically adjectives, nouns, and verbs. 
+Mad Libs typically starts by prompting you (the user) to provide words based on the various parts of speech:, typically adjectives, nouns, and verbs.
 
 Once you have provided those words, they get placed into a short story with blanks for the specific parts of speech (i.e. if you’re prompted for two adjectives and one verb, the story will have two blanks for adjectives and one blank for a verb).
 
 ### Activity (40 min)
 
-Find a partner, and read through the [Mad Libs Spec](https://docs.google.com/document/d/1suR3hzqfGSL9o99rNbDrcU0N1Z47EREubP38IY4Ptuc/edit?usp=sharing) together. From there, create a program design for Mad Libs. 
+Find a partner, and read through the [Mad Libs Spec](https://docs.google.com/document/d/1suR3hzqfGSL9o99rNbDrcU0N1Z47EREubP38IY4Ptuc/edit?usp=sharing) together. From there, create a program design for Mad Libs.
 
 With your partner, establish the following:
 

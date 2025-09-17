@@ -2,7 +2,6 @@
 Quiz 1 will be open note and open book and will be given via gradescope. The quiz will take approximately 30min - 1hour to complete.
 
 To prepare for the quiz review the class slide decks, activities, worksheets, and assignments related to the topics below.
-
 - Encapsulation & Instantiation
 	- Be able to write a class definition from a written description
 	- Be able to instantiate a object from a given class

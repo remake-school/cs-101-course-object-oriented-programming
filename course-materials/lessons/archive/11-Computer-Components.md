@@ -30,6 +30,6 @@ Break (5 min)
 
 ## Challenges
 - Continue [Herd Immunity Simulation Project][]
-  - Implement `Simulation` class and write unit tests
+	- Implement `Simulation` class and write unit tests
 
 [Herd Immunity Simulation Project]: https://make.sc/herd-immunity

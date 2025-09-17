@@ -3,7 +3,7 @@
 ## Learning Objectives
 By the end of this lesson, students will be able to:
 1. Understand the concept of herd immunity for vaccinations
-1. See how simulations can model how different viruses spread through a population  
+1. See how simulations can model how different viruses spread through a population
 1. Use automated tests to verify that program behavior is accurate
 
 ## Infectious Disease Modeling
@@ -20,7 +20,6 @@ Break (5 min)
 - Pair program: Create new `Virus` test (10 min)
 - Pair program: Complete three `Person` tests (20 min)
 
-
 ## Resources
 - Vox's Video on [What Bill Gates is afraid of][Bills Fear]
 - The Atlantic's [1918 Flu Epidemic](https://www.theatlantic.com/science/archive/2018/04/what-bill-gates-fears-most/559007/)
@@ -28,7 +27,7 @@ Break (5 min)
 
 ## Challenges
 - [Herd Immunity Simulation Project][]
-  - Implement `Virus` and `Person` classes and write unit tests
+	- Implement `Virus` and `Person` classes and write unit tests
 
 ## Stretch Challenges
 - Create `Visualizer` class that shows spread of virus based on log files

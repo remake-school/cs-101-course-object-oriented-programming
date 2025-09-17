@@ -8,13 +8,11 @@ By the end of this lesson, students will be able to:
 - Decipher errors using Pytest
 - Write meaningful automated tests to reduce errors
 
-
 ## Bugs and Errors
 - First Computer Bug
 - Types
 - Debugging
 - Debugging vs. Testing
-
 
 ## Testing
 - Manual vs. Automated
@@ -24,16 +22,13 @@ By the end of this lesson, students will be able to:
 - Become the Debugger
 
 ## Homework
-- Add 6-8 unit tests to your Spaceman project code 
+- Add 6-8 unit tests to your Spaceman project code
 - Submit links to your GitHub commit(s) in the progress tracker that show these tests by next class
-
 
 ## Resources
 - [Grace Hopper's Computer Bug]
 - [Types of Bugs]
 - [Project Rubric]
-
-
 
 [Grace Hopper's Computer Bug]: https://www.wired.com/2013/12/googles-doodle-honors-grace-hopper-and-entomology/
 

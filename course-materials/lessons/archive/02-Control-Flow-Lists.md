@@ -16,7 +16,7 @@
 ## Control Flow
 - Conditionals
 - For Loops
-- While Loops 
+- While Loops
 - Indexing vs. object
 - For vs. while
 - How to use loops and lists together
@@ -24,11 +24,10 @@
 ## Captain Rainbows Color Checklist
 - Work through 1-3
 
-## Sharing Code 
+## Sharing Code
 - What makes readable code?
 - Mini code review
 
 ## Homework
 - Finish all of Captain Rainbow by next class
 - Finish all of Mad Libs
-
