@@ -11,5 +11,4 @@ fruits[2] = "jackfruit"
 print(fruits[3])
 
 for fruit in fruits:
-    print(fruit)
-
+	print(fruit)
